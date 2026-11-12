@@ -53,3 +53,19 @@ GitHub: tasmia binte huda18-gif
 ---
 
  Thank you for visiting my project!
+ ## Database Screenshots
+
+### 1. Passengers Table
+![Passengers](1.passenger.png.png)
+
+### 2. Buses Table
+![Buses](2.bus.png.png)
+
+### 3. Drivers Table
+![Drivers](3.drivers.png.png)
+
+### 4. Routes Table
+![Routes](4.routes.png.png)
+
+### 5. Tickets Table
+![Tickets](5.ticket.png.png)
